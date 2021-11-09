@@ -1,4 +1,4 @@
-export const add = (elementA, elementB): number => {
+export const add = (elementA: number, elementB: number): number => {
   return elementA + elementB;
 };
 
